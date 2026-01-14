@@ -7,8 +7,8 @@ from tenacity import retry, wait_exponential, stop_after_attempt
 import json
 
 @retry(
-    wait=wait_exponential(multiplier=2, min=5, max=60),
-    stop=stop_after_attempt(10),
+    wait=wait_exponential(multiplier=2, min=5, max=90),
+    stop=stop_after_attempt(12),
     before_sleep=lambda retry_state: print(f"[*] Rate limited (Extraction). Retrying in {retry_state.next_action.sleep} seconds...")
 )
 def extract_batch(image_paths: List[str], bank_name: str) -> Dict[str, Any]:
@@ -28,14 +28,26 @@ def extract_batch(image_paths: List[str], bank_name: str) -> Dict[str, Any]:
       "ifsc": "string",
       "transactions": [
         {{
-          "date": "string",
+          "date": "string (YYYY-MM-DD)",
           "description": "string",
           "debit": float,
           "credit": float,
-          "balance": float
+          "balance": float,
+          "category": "string",
+          "payment_mode": "string"
         }}
       ]
     }}
+    
+    Classification Rules:
+    1. Categorize each transaction into one of: Salary, Rent, Vendor Payment, Loan Repayment, Cash, Transfer, UPI, NEFT/IMPS, Charges.
+    2. In 'payment_mode', be SPECIFIC based on the description:
+       - If UPI: check if P2P, P2M, or P2A.
+       - If Loan: check if EMI or Part-payment.
+       - If Transfer: check if NEFT, IMPS, RTGS, or Internal.
+       - If Cash: check if Deposit or Withdrawal.
+    
+    Example: Description contains 'P2M' -> category: 'UPI', payment_mode: 'UPI-P2M'.
     Include all transactions found across these pages.
     """
     
@@ -65,7 +77,7 @@ def extract_all_pages(image_paths: List[str], bank_name: str) -> Dict[str, Any]:
         "transactions": []
     }
     
-    batch_size = 3
+    batch_size = 2
     for i in range(0, len(image_paths), batch_size):
         batch_paths = image_paths[i:i + batch_size]
         print(f"[*] Processing batch {i//batch_size + 1}/{(len(image_paths)-1)//batch_size + 1} ({len(batch_paths)} pages)...")

@@ -1,0 +1,3349 @@
+{
+  "bank_name": "AXIS",
+  "account_holder": "VIGNESHKUMAR J",
+  "account_number": "924010014309247",
+  "ifsc": "UTIB0003730",
+  "transactions": [
+    {
+      "date": "2025-08-01",
+      "description": "UPI/P2A/521318018584/DINESHCHA/ICICI BANK/UPI",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 1080.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-01",
+      "description": "UPI/P2A/109068157101/NIKITHA P/CANARA B/UPI/",
+      "debit": 0.0,
+      "credit": 200.0,
+      "balance": 1280.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-01",
+      "description": "UPI/P2M/109074674006/K LOGANATHAN /Pay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 1265.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-01",
+      "description": "UPI/P2M/109076139423/RAJESHWARI S/UPI/YES BANK LIMITED YBS",
+      "debit": 12.0,
+      "credit": 0.0,
+      "balance": 1253.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-02",
+      "description": "UPI/P2M/109083624427/Google India Digital /UPI/AXIS BANK",
+      "debit": 300.9,
+      "credit": 0.0,
+      "balance": 952.57,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-02",
+      "description": "UPI/P2M/109102350011/SHIYABUDEEN A/UPI/YES BANK LIMITED YBS",
+      "debit": 800.0,
+      "credit": 0.0,
+      "balance": 152.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-03",
+      "description": "UPI/P2M/109141553534/R JAI JANANI CO /UPI/YES BANK LIMITED YBS",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 2.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-04",
+      "description": "NEFT/HDFC0002578/UTB7S204ERVIO TECHNOLOGIES PRIVAT/HDFC BANK/0001/salary",
+      "debit": 0.0,
+      "credit": 30000.0,
+      "balance": 30002.57,
+      "category": "Salary / Income"
+    },
+    {
+      "date": "2025-08-04",
+      "description": "UPI/P2A/521612014062/Vigneshkumar J /UPI/EQUITAS SMALL FINANC",
+      "debit": 0.0,
+      "credit": 5000.0,
+      "balance": 25002.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-04",
+      "description": "UPI/P2A/521642507101/HARISH /State Bank Of",
+      "debit": 250.0,
+      "credit": 0.0,
+      "balance": 25252.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-04",
+      "description": "UPI/P2M/109253309731/S SANTHOSH /UPI/YES BANK LIMITED YBS",
+      "debit": 360.0,
+      "credit": 0.0,
+      "balance": 24892.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-04",
+      "description": "UPI/P2M/109269712224/K LOGANATHAN /Pay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 24877.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-04",
+      "description": "UPI/P2A/521639003345/JAYA J /UPI/TAMILNAD MERCANTILE",
+      "debit": 6000.0,
+      "credit": 0.0,
+      "balance": 18877.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-05",
+      "description": "UPI/P2M/109266570143/LAKSHMANAMUGAM M /UPI/YES BANK LIMITED YBS",
+      "debit": 56.0,
+      "credit": 0.0,
+      "balance": 18821.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-05",
+      "description": "UPI/P2A/109297636050/ANISTO MEGIN A /UPI/HDFC BANK LTD",
+      "debit": 7000.0,
+      "credit": 0.0,
+      "balance": 11821.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-05",
+      "description": "UPI/P2M/109355923989/K LOGANATHAN /Pay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 11806.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-05",
+      "description": "UPI/P2M/109356770540/UMA AGENCIES /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 11606.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-06",
+      "description": "UPI/P2A/10941422731/HARISH /UPI/State Bank Of India",
+      "debit": 410.0,
+      "credit": 0.0,
+      "balance": 11196.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-06",
+      "description": "UPI/P2M/109396026343/K LOGANATHAN /Pay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 11181.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-07",
+      "description": "UPI/P2M/109426023348/K LOGANATHAN /Pay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 11166.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-07",
+      "description": "UPI/P2M/521652718228/JACOB B /UPI/BANK OF BARODA",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 9166.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-08",
+      "description": "UPI/P2M/109481705100/NAWFAL RAHMAN M A /UPI/YES BANK LIMITED YBS",
+      "debit": 360.0,
+      "credit": 0.0,
+      "balance": 8806.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-08",
+      "description": "UPI/P2M/109485507430/APOLLO PHARMACY PAYM/UPI/YES BANK LIMITED YBS",
+      "debit": 42.44,
+      "credit": 0.0,
+      "balance": 8764.13,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-09",
+      "description": "UPI/P2M/109542727780/HIRESH SMARAN ELECTRI/UPI/YES BANK LIMITED YBS",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 8734.13,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-09",
+      "description": "UPI/P2M/109543110933/APOLLO PHARMACY PAYM/UPI/AXIS BANK",
+      "debit": 196.72,
+      "credit": 0.0,
+      "balance": 8537.41,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-10",
+      "description": "UPI/P2M/109553123543/JAYA J /UPI/TAMILNAD MERCANTILE",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 6537.41,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-10",
+      "description": "UPI/P2M/109561106385/PAKSHAL ELECTRICALS /UPI/YES BANK LIMITED YBS",
+      "debit": 462.0,
+      "credit": 0.0,
+      "balance": 6075.41,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-10",
+      "description": "UPI/P2M/109561537944/NIDIYA POULTRY FARM/UPI/AXIS BANK",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 5925.41,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-10",
+      "description": "UPI/P2A/400542258096/KARTHICK J/UNION B/UPI/Payment",
+      "debit": 0.0,
+      "credit": 2000.0,
+      "balance": 7925.41,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-17",
+      "description": "UPI/P2A/52256316546/VENKATESH PRASANNA/R/UPI/State Bank Of India",
+      "debit": 80.0,
+      "credit": 0.0,
+      "balance": 7845.41,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "CreditCard Payment XX 0023 Ref#PZWNNEQ0RALZ/COM",
+      "debit": 2631.8,
+      "credit": 0.0,
+      "balance": 5213.61,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "UPI/P2A/117905752305/GOOGLE IN/AXIS BANK/UPI/",
+      "debit": 0.0,
+      "credit": 3.0,
+      "balance": 5216.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "UPI/P2A/179609323305/GOOGLE IN/AXIS BANK/UPI/",
+      "debit": 0.0,
+      "credit": 3.0,
+      "balance": 5219.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "UPI/P2A/523063376294/JAYA J/TAMILNAD U/UPI",
+      "debit": 0.0,
+      "credit": 3000.0,
+      "balance": 8219.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "UPI/P2A/559607182684/KUMAR /ICICI Ban/UPI/",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 9219.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "UPI/P2A/523018812688/Vigneshku/EQUITAS S/UPI/",
+      "debit": 0.0,
+      "credit": 180.0,
+      "balance": 9399.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "UPI/P2M/110003578294/NOUSHAD K /UPI/YES BANK LIMITED YBS",
+      "debit": 510.0,
+      "credit": 0.0,
+      "balance": 8889.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-18",
+      "description": "ATM/CASH/NPSO PHANAICKANPA,COIMBATORE/180825",
+      "debit": 3000.0,
+      "credit": 0.0,
+      "balance": 5889.61,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-08-19",
+      "description": "UPI/P2A/106927460274/SURESH /UPI/BANK OF BARODA",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 4889.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-20",
+      "description": "UPI/P2A/5233649542/SUDHARSON/State Bank/UPI/",
+      "debit": 0.0,
+      "credit": 800.0,
+      "balance": 5689.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-21",
+      "description": "UPI/P2M/110109633500/KD STORE /UPI/YES BANK LIMITED YBS",
+      "debit": 20.0,
+      "credit": 0.0,
+      "balance": 5669.61,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-21",
+      "description": "UPI/P2A/523530389849/JAYA J/TAMILNAD /UPI/",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 6669.61,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-22",
+      "description": "CreditCard Payment XX 0023 Ref#FEAO55WI91QOW",
+      "debit": 6502.64,
+      "credit": 0.0,
+      "balance": 166.97,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2025-08-22",
+      "description": "UPI/P2A/523439856206/HARISH /State Bank/UPI/",
+      "debit": 0.0,
+      "credit": 500.0,
+      "balance": 666.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-23",
+      "description": "UPI/P2A/11038321697/HARISH /UPI/State Bank Of India",
+      "debit": 110.0,
+      "credit": 0.0,
+      "balance": 556.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-23",
+      "description": "UPI/P2M/11035234511/THIYAGARAJAN MANIKAND/UPI/YES BANK LIMITED YBS",
+      "debit": 56.0,
+      "credit": 0.0,
+      "balance": 500.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-24",
+      "description": "UPI/P2A/560223981815/JAYA J/TAMILNAD U/UPI",
+      "debit": 0.0,
+      "credit": 500.0,
+      "balance": 1000.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-24",
+      "description": "UPI/P2M/1104449080/JAYAKUMAR K /UPI/AXIS BANK",
+      "debit": 380.0,
+      "credit": 0.0,
+      "balance": 620.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-24",
+      "description": "UPI/P2M/110255747882/Google India Digital /UPI/AXIS BANK",
+      "debit": 33.0,
+      "credit": 0.0,
+      "balance": 587.97,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-24",
+      "description": "UPI/P2M/110255606685/Google India Digital /UPI/AXIS BANK",
+      "debit": 33.0,
+      "credit": 0.0,
+      "balance": 554.97,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-25",
+      "description": "UPI/P2A/110542357344/K Umar Muqthar /UPI/Bank Mahindra Bank",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 354.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-25",
+      "description": "UPI/P2M/11056029555/UMA AGENCIES /UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 254.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-26",
+      "description": "UPI/P2A/110374826022/HARISH /UPI/State Bank Of India",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 54.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-27",
+      "description": "UPI/P2M/110759123545/Google India Digital /UPI/AXIS BANK",
+      "debit": 33.0,
+      "credit": 0.0,
+      "balance": 21.97,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-08-29",
+      "description": "UPI/P2A/560718760442/JACOB B/BANK OF B/UPI/",
+      "debit": 0.0,
+      "credit": 300.0,
+      "balance": 321.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-29",
+      "description": "UPI/P2A/110817357574/JACOB B /UPI/BANK OF BARODA",
+      "debit": 300.0,
+      "credit": 0.0,
+      "balance": 21.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-08-30",
+      "description": "UPI/P2A/106256250275/Anisto Megin A /UPI/State Bank Of India",
+      "debit": 21.0,
+      "credit": 0.0,
+      "balance": 97.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-02",
+      "description": "UPI/P2A/561133737538/JAYA J/TAMILNAD U/UPI",
+      "debit": 0.0,
+      "credit": 100.0,
+      "balance": 197.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-02",
+      "description": "UPI/P2M/109402446671/ABIN J JERLIN /UPI/YES BANK LIMITED YBS",
+      "debit": 57.0,
+      "credit": 0.0,
+      "balance": 43.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-03",
+      "description": "UPI/P2M/110429157/BALASHANMUGAM S /UPI/YES BANK LIMITED YBS",
+      "debit": 38.0,
+      "credit": 0.0,
+      "balance": 5.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-03",
+      "description": "NEFT/HDFC0002461/24359419/RVIO TECHNOLOGIES PRIVAT/HDFC BANK/0001/salary",
+      "debit": 0.0,
+      "credit": 30000.0,
+      "balance": 30005.97,
+      "category": "Salary / Income"
+    },
+    {
+      "date": "2025-09-03",
+      "description": "UPI/P2A/1105413154/Vigneshkumar J /UPI/EQUITAS SMALL FINANC",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 25005.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-03",
+      "description": "UPI/P2M/1105305900/JAYA J /UPI/TAMILNAD MERCANTILE",
+      "debit": 10000.0,
+      "credit": 0.0,
+      "balance": 15005.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-03",
+      "description": "UPI/P2M/110542341113/UMA AGENCIES /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 14805.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-03",
+      "description": "UPI/P2M/106383078298/RAM GIBHABILE /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 14785.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-04",
+      "description": "UPI/P2M/11072210853/MR ABDUL KAREEM K/UPI/YES BANK LIMITED YBS",
+      "debit": 55.0,
+      "credit": 0.0,
+      "balance": 14730.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-04",
+      "description": "UPI/P2M/110792059530/K LOGANATHAN /Pay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 14715.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-05",
+      "description": "UPI/P2M/1108007788/MAHESH K P /UPI/YES BANK LIMITED YBS",
+      "debit": 360.0,
+      "credit": 0.0,
+      "balance": 14355.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-06",
+      "description": "UPI/P2M/1108607767/J RAM AGENCIES /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 14155.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-06",
+      "description": "UPI/P2A/110873836342/DEEPAK /UPI/HDFC BANK LTD",
+      "debit": 10.0,
+      "credit": 0.0,
+      "balance": 14145.97,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2M/110897063272/Google India Service /UPI/ICICI Bank",
+      "debit": 300.9,
+      "credit": 0.0,
+      "balance": 13845.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2M/11082785691/Google India Digital /UPI/AXIS BANK",
+      "debit": 244.0,
+      "credit": 0.0,
+      "balance": 13601.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2M/110907139754/JAYA J /UPI/TAMILNAD MERCANTILE",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 11601.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2A/561644588064/JACOB B/BANK OF B/UPI/",
+      "debit": 0.0,
+      "credit": 500.0,
+      "balance": 12101.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2A/10917477917/KALYAN SINGH KABI /UPI/State Bank Of India",
+      "debit": 417.0,
+      "credit": 0.0,
+      "balance": 11684.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2M/109277505528/RAJ JANANI CO /UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 11584.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2A/56169191778/JAYA J/TAMILNAD U/UPI",
+      "debit": 0.0,
+      "credit": 400.0,
+      "balance": 11984.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2M/110922098736/PAKSHAL ELECTRICALS /UPI/YES BANK LIMITED YBS",
+      "debit": 370.0,
+      "credit": 0.0,
+      "balance": 11614.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2M/11092509020/Dhil Restaurant /UPI/AXIS BANK",
+      "debit": 460.0,
+      "credit": 0.0,
+      "balance": 11154.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "UPI/P2M/11093534692/VIJAY DEVRAJ /UPI/YES BANK LIMITED YBS",
+      "debit": 260.0,
+      "credit": 0.0,
+      "balance": 10894.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-08",
+      "description": "UPI/P2M/110878841770/krishnachi medical/UPI/AXIS BANK",
+      "debit": 50.0,
+      "credit": 0.0,
+      "balance": 10844.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-08",
+      "description": "UPI/P2M/110952282078/REVATI DEVI /UPI/INDIA POST PAYMENTS",
+      "debit": 20.0,
+      "credit": 0.0,
+      "balance": 10824.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-08",
+      "description": "UPI/P2A/1109579240100/14309247/080925/INDUS POST PAYMENTS",
+      "debit": 0.0,
+      "credit": 20.0,
+      "balance": 10844.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-09",
+      "description": "UPI/P2A/109843904334/N AVEEN P /UPI/CANARA BANK",
+      "debit": 50.0,
+      "credit": 0.0,
+      "balance": 10794.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-09",
+      "description": "UPI/P2M/109876140599/RKR FUELS /UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 10694.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-09",
+      "description": "UPI/P2M/11105400030/BALASUBRAMANIA M M /UPI/YES BANK LIMITED YBS",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 10664.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-09",
+      "description": "UPI/P2M/11107713449/AN ALAMMALAM FUEL /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 10464.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-10",
+      "description": "UPI/P2M/111080515598/SANTHOSH /UPI/YES BANK LIMITED YBS",
+      "debit": 230.0,
+      "credit": 0.0,
+      "balance": 10234.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-11",
+      "description": "UPI/P2M/11129639352/SR CLINIC AND LAB AXIS BANK LIMITED YBS",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 10204.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-12",
+      "description": "UPI/P2A/225531669442/TVR TAMILNAD UPI",
+      "debit": 0.0,
+      "credit": 20000.0,
+      "balance": 30204.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-12",
+      "description": "UPI/P2M/11141147186/Sri Krishna Fuels 2 UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 30004.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-12",
+      "description": "UPI/P2M/111303410/L VIVEKU PRANESH VINO UPI/YES BANK LIMITED YBS",
+      "debit": 273.0,
+      "credit": 0.0,
+      "balance": 29731.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-12",
+      "description": "UPI/P2A/562165436524/J JACOB B/BANK OF BARODA",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 30731.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-12",
+      "description": "UPI/P2A/11181888632/MEGALA A/UNION BANK OF INDIA",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 29731.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "UPI/P2M/00109968434/LULU FINANCE LIMITED/ALLE/HDFC BANK LTD",
+      "debit": 480.0,
+      "credit": 0.0,
+      "balance": 29251.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "UPI/P2A/562275451325/MEGAL/UNION BAN/UPI/",
+      "debit": 0.0,
+      "credit": 480.0,
+      "balance": 29731.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "UPI/P2M/11193628825/THILACHIYAMMAL R/CANARA BANK LIMITED YBS",
+      "debit": 25.0,
+      "credit": 0.0,
+      "balance": 29706.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "POS/SMART FINAC/Finance/1309/12/29286",
+      "debit": 600.0,
+      "credit": 0.0,
+      "balance": 29106.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "UPI/P2M/11195571690/MANICKAM UPI/YES BANK LIMITED YBS",
+      "debit": 40.0,
+      "credit": 0.0,
+      "balance": 29066.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "UPI/P2M/11196752444/MANIKANDAN KANGAMUTHU/UPI/YES BANK LIMITED YBS",
+      "debit": 37.0,
+      "credit": 0.0,
+      "balance": 29029.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "UPI/P2A/562216187064/MEGALA/UNION BAN/UPI/",
+      "debit": 0.0,
+      "credit": 130.0,
+      "balance": 29159.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-14",
+      "description": "UPI/P2M/11177973781/SHI AMBAL JEWELLERS UPI/HDFC BANK LTD",
+      "debit": 17900.0,
+      "credit": 0.0,
+      "balance": 11259.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-14",
+      "description": "UPI/P2M/11233717797/924010014309247/1409 25/HDFC BANK LTD",
+      "debit": 0.0,
+      "credit": 17900.0,
+      "balance": 29159.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-14",
+      "description": "ATM-CASH AXIS/DPRG/0030203/399/140925/KARAMADAI",
+      "debit": 20000.0,
+      "credit": 0.0,
+      "balance": 9159.07,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-09-14",
+      "description": "UPI/P2M/11252819466/Google India Digital UPI/AXIS BANK",
+      "debit": 77.0,
+      "credit": 0.0,
+      "balance": 9082.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-14",
+      "description": "UPI/P2M/1125297424/MANIKANDAN KANGAMUTHU/UPI/YES BANK LIMITED YBS",
+      "debit": 2.0,
+      "credit": 0.0,
+      "balance": 9080.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-15",
+      "description": "UPI/P2M/111305824954/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 9065.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-17",
+      "description": "UPI/P2M/11159755745/BHUVANESHWARAN V. /UPI/CANARA BANK",
+      "debit": 80.0,
+      "credit": 0.0,
+      "balance": 8985.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-17",
+      "description": "UPI/P2A/562703243552/DHARSON SEKAR A/BANK OF BARODA",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 8885.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-17",
+      "description": "UPI/P2M/1113570025/R ARUL R UPI/KARNATAKA BANK",
+      "debit": 90.0,
+      "credit": 0.0,
+      "balance": 8795.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-17",
+      "description": "UPI/P2M/111380117534/A ADHI HONDA - SERVICE/UPI/AXIS BANK LIMITED YBS",
+      "debit": 3850.0,
+      "credit": 0.0,
+      "balance": 4945.07,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-18",
+      "description": "UPI/P2M/11184136274/RAI ASHOKARUGAM N. /UPI/YES BANK LIMITED YBS",
+      "debit": 33.0,
+      "credit": 0.0,
+      "balance": 4912.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-18",
+      "description": "UPI/P2A/11141378105/HARI PRIY/CANARA BA/UPI",
+      "debit": 0.0,
+      "credit": 1250.0,
+      "balance": 6162.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-18",
+      "description": "UPI/P2M/11130582495/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 6147.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-19",
+      "description": "UPI/P2M/111456002015/Google India Digital UPI/AXIS BANK",
+      "debit": 77.0,
+      "credit": 0.0,
+      "balance": 6070.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-19",
+      "description": "UPI/P2A/112176759197/KIRUBHA NALLASAMY /UPI/CANARA BANK",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 5070.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-20",
+      "description": "SAK/CASH DEP/SAK455435793/4995/CD ARIU",
+      "debit": 0.0,
+      "credit": 5000.0,
+      "balance": 10070.07,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-09-20",
+      "description": "UPI/P2A/11126985/S HARISH UPI/State Bank of India",
+      "debit": 250.0,
+      "credit": 0.0,
+      "balance": 9820.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "UPI/P2A/526510456275/HARISHANK/RBL BANK/Dhan UP",
+      "debit": 0.0,
+      "credit": 150.0,
+      "balance": 9970.07,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "CreditCard Payment XX 1794 Ref:PU28NVXPGEGNS7",
+      "debit": 3676.9,
+      "credit": 0.0,
+      "balance": 6293.17,
+      "category": "Loan Repayment"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "CreditCard Payment XX 9923 Ref:PA9ERF5XGEKESY",
+      "debit": 2192.6,
+      "credit": 0.0,
+      "balance": 4100.57,
+      "category": "Loan Repayment"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "UPI/P2M/11162339837/Velmurugan V UPI/YES BANK LIMITED YBS",
+      "debit": 20.0,
+      "credit": 0.0,
+      "balance": 4080.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "UPI/P2M/111625728062/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 4065.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "UPI/P2M/11162635924/APOLLO PHARMACY /P2M/AXIS BANK",
+      "debit": 48.83,
+      "credit": 0.0,
+      "balance": 4016.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-23",
+      "description": "UPI/P2M/11150240750/BLESSING OPTICS UPI/State Bank of India",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 3916.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UPI/P2A/526787694638/SABARINAT/ICICI Bank/UPI",
+      "debit": 0.0,
+      "credit": 321.0,
+      "balance": 3337.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UPI/P2A/11169292960/SANJAY RO/HDFC BANK/UPI/",
+      "debit": 0.0,
+      "credit": 321.0,
+      "balance": 3658.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UPI/P2A/563384218514/SOUNDAR J/BANK OF INDIA",
+      "debit": 0.0,
+      "credit": 320.0,
+      "balance": 3978.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UPI/P2M/111713282959/SELVANAYAGI AGENCIES /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 3778.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UPI/P2A/563318350859/HARISH /State Bank/UPI",
+      "debit": 0.0,
+      "credit": 200.0,
+      "balance": 3978.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UPI/P2M/11171513661/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 3963.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-24",
+      "description": "UPI/P2M/111716096537/J ABIYA JERLIN /UPI/YES BANK LIMITED YBS",
+      "debit": 49.0,
+      "credit": 0.0,
+      "balance": 3914.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-25",
+      "description": "UPI/P2M/11173801406/VELPOS UPI/KARUR VYSA BANK",
+      "debit": 260.0,
+      "credit": 0.0,
+      "balance": 3654.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-25",
+      "description": "UPI/P2A/526801649656/HARISH /State Bank/UPI",
+      "debit": 0.0,
+      "credit": 40.0,
+      "balance": 3694.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-25",
+      "description": "UPI/P2M/111762001038/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 3679.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-26",
+      "description": "UPI/P2M/111762744/UMA AGENCIES UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 3479.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-26",
+      "description": "UPI/P2M/11177376780/SIVASHANMUGAM T. /UPI/YES BANK LIMITED YBS",
+      "debit": 38.0,
+      "credit": 0.0,
+      "balance": 3441.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-26",
+      "description": "UPI/P2M/11181075374/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 3426.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-27",
+      "description": "UPI/P2A/111842600544/BLESSING OPTICS UPI/State Bank of India",
+      "debit": 1900.0,
+      "credit": 0.0,
+      "balance": 1526.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-09-27",
+      "description": "UPI/P2M/1118476728/M G SENTHIL KUMAR /UPI/INDIAN BANK",
+      "debit": 44.0,
+      "credit": 0.0,
+      "balance": 1482.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-30",
+      "description": "UPI/P2M/603016055548/RAJESHWARAN/HDFC BANK/Payment",
+      "debit": 0.0,
+      "credit": 120.0,
+      "balance": 1602.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-30",
+      "description": "UPI/P2A/111967403275/SOUNDAR J/HDFC BANK/UPI/",
+      "debit": 0.0,
+      "credit": 50.0,
+      "balance": 1652.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-30",
+      "description": "UPI/P2A/529886077/SABARINATHAN A /UPI/ICICI Bank",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 1452.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-30",
+      "description": "UPI/P2A/11197495704/MR DHANU PALSHADH J/UPI/CITY UNION BANK LTD",
+      "debit": 500.0,
+      "credit": 0.0,
+      "balance": 952.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-09-30",
+      "description": "UPI/P2M/11200299166/SRI SANMUGAVILAS AWES/UPI/AXIS BANK",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 802.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-01",
+      "description": "SB CHG/01014309247/Int.Pd:01-07-2025 to 30-09-2025",
+      "debit": 0.0,
+      "credit": 37.0,
+      "balance": 839.74,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2025-10-02",
+      "description": "UPI/P2A/564149587444/MANOJ A/ICICI Bank/UPI",
+      "debit": 0.0,
+      "credit": 2000.0,
+      "balance": 2839.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-02",
+      "description": "UPI/P2A/112059217681/MOULITHARAN C /UPI/INDIAN OVERSEAS BANK",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 839.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-02",
+      "description": "UPI/P2M/112075512061/UMA AGENCIES UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 639.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-03",
+      "description": "UPI/P2M/1121011963/SHANTHII R UPI/YES BANK LIMITED YBS",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 609.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-03",
+      "description": "UPI/P2M/112105235173/Google India Digital UPI/AXIS BANK",
+      "debit": 77.0,
+      "credit": 0.0,
+      "balance": 532.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2M/564341136696/4 RAM AGENCIES /UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 432.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2M/11219097890/SIVASHANMUGAM T. /UPI/YES BANK LIMITED YBS",
+      "debit": 38.0,
+      "credit": 0.0,
+      "balance": 394.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "NEFT/HDFC160616282227/INTERVIO TECHNOLOGIES PRIV/HDFC BANK/0001/Salary",
+      "debit": 0.0,
+      "credit": 30000.0,
+      "balance": 30394.74,
+      "category": "Salary / Income"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2A/527604018083/Vishukumar J /UPI/QUITAS SMALL FINANC",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 25394.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2M/527721685734/Tata Payments /P2M/ICICI Bank",
+      "debit": 4926.0,
+      "credit": 0.0,
+      "balance": 20468.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2A/5643283283/MANOJ A /UPI/ICICI Bank",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 18468.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2M/11214250034/Prozone Mall Coimbatore/UPI/YES BANK LIMITED YBS",
+      "debit": 20.0,
+      "credit": 0.0,
+      "balance": 18448.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2M/11219750013/Prozone Mall Coimbatore/UPI/YES BANK LIMITED YBS",
+      "debit": 10.0,
+      "credit": 0.0,
+      "balance": 18438.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-04",
+      "description": "UPI/P2M/112178413219/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 18423.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-05",
+      "description": "UPI/P2A/11218676613/JAYA J J /UPI/TAMILNAD MERCANTILE",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 13423.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-05",
+      "description": "UPI/P2A/112188264/JAYA J J /UPI/TAMILNAD MERCANTILE",
+      "debit": 4000.0,
+      "credit": 0.0,
+      "balance": 9423.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-05",
+      "description": "UPI/P2A/52786889113/JACOB B/BANK OF BARODA",
+      "debit": 0.0,
+      "credit": 400.0,
+      "balance": 9823.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "UPI/P2M/112214700541/MOULITHARAN C/INDIAN OVERSEAS BANK",
+      "debit": 267.0,
+      "credit": 0.0,
+      "balance": 9556.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "UPI/P2A/52838202596/HARISH/AXIS/FEDERA L B/Sent via/",
+      "debit": 0.0,
+      "credit": 152.0,
+      "balance": 9708.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "UPI/P2A/112225388280/SOUNDAR J/HDFC BANK/UPI/",
+      "debit": 0.0,
+      "credit": 400.0,
+      "balance": 10108.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "UPI/P2A/11226120473/JACOB B /UPI/BANK OF BARODA",
+      "debit": 400.0,
+      "credit": 0.0,
+      "balance": 9708.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "UPI/P2M/112278464504/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 9693.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "UPI/P2M/11227870/HARI JANANI CO /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 9493.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-07",
+      "description": "UPI/P2A/1123171301/STEPHEN J /UPI/INDIAN OVERSEAS BANK",
+      "debit": 32.0,
+      "credit": 0.0,
+      "balance": 9461.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-08",
+      "description": "UPI/P2M/11236203922/SS PETRO FUEL UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 9261.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-09",
+      "description": "UPI/P2A/056006457364/VENKATESH/State Bank/Payment/",
+      "debit": 0.0,
+      "credit": 150.0,
+      "balance": 9411.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-09",
+      "description": "UPI/P2A/112390735430/SOUNDAR J /UPI/BANK OF INDIA",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 9261.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-09",
+      "description": "UPI/P2M/1124045596/K LOGANATHAN Pay/ICICIBANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 9246.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-09",
+      "description": "UPI/P2M/11241031957/J ABIYA JERLIN /UPI/YES BANK LIMITED YBS",
+      "debit": 35.0,
+      "credit": 0.0,
+      "balance": 9211.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-10",
+      "description": "UPI/P2A/528357169570/SURYA PR/INDIA POS/Sent via/",
+      "debit": 0.0,
+      "credit": 200.0,
+      "balance": 9411.74,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-10",
+      "description": "UPI/P2M/11243873961/New Booster Cafe UPI/AXIS BANK",
+      "debit": 120.0,
+      "credit": 0.0,
+      "balance": 9291.74,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-10",
+      "description": "UPI/P2M/11243959688/ZOMATO UPI/HDFC BANK LTD",
+      "debit": 595.92,
+      "credit": 0.0,
+      "balance": 8695.82,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-10",
+      "description": "UPI/P2M/11245971379/K ALAISEIVIL UPI/YES BANK LIMITED YBS",
+      "debit": 50.0,
+      "credit": 0.0,
+      "balance": 8645.82,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-10",
+      "description": "UPI/P2A/528322272322/JAYA J/TAMILNAD A/UPI",
+      "debit": 0.0,
+      "credit": 200.0,
+      "balance": 8845.82,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-10",
+      "description": "UPI/P2A/112462043159/MANIKANDAN A /UPI/State Bank of India",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 8645.82,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-12",
+      "description": "UPI/P2A/11252034/P2PS/Sameer Sameer /UPI/State Bank of India",
+      "debit": 180.0,
+      "credit": 0.0,
+      "balance": 8465.82,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-12",
+      "description": "CreditCard Payment XX 9923 Ref:PA9ERF5XGEKESY",
+      "debit": 4953.37,
+      "credit": 0.0,
+      "balance": 3512.45,
+      "category": "Loan Repayment"
+    },
+    {
+      "date": "2025-10-13",
+      "description": "UPI/P2A/565261390682/RAMA K/HDFC Bank/UPI",
+      "debit": 0.0,
+      "credit": 20000.0,
+      "balance": 23512.45,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-13",
+      "description": "UPI/P2A/11286905068/KIRUBHA NALLASAMY /UPI/CANARA BANK",
+      "debit": 6000.0,
+      "credit": 0.0,
+      "balance": 17512.45,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-13",
+      "description": "UPI/P2A/52865982/RAMA K/HDFC Bank/UPI",
+      "debit": 650.0,
+      "credit": 0.0,
+      "balance": 16862.45,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-13",
+      "description": "UPI/P2A/528652094732/HARISH /State Bank/UPI",
+      "debit": 0.0,
+      "credit": 200.0,
+      "balance": 18862.45,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-13",
+      "description": "CreditCard Payment XX 1794 Ref:PU358R8RGEUCAX",
+      "debit": 3654.88,
+      "credit": 0.0,
+      "balance": 15207.57,
+      "category": "Loan Repayment"
+    },
+    {
+      "date": "2025-10-13",
+      "description": "UPI/P2M/565313164966/THE CHENNAI MOBILES /Genera/HDFC Bank Ltd",
+      "debit": 1500.0,
+      "credit": 0.0,
+      "balance": 207.57,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-13",
+      "description": "UPI/P2M/112615098268/K LOGANATHAN P/AXIS/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 192.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-15",
+      "description": "UPI/P2A/55548809493/MEGALA/UNION BANK/UPI",
+      "debit": 20.0,
+      "credit": 0.0,
+      "balance": 212.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-16",
+      "description": "UPI/P2M/112720365832/Google Digital India UPI/AXIS BANK",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 112.57,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-17",
+      "description": "UPI/P2A/112816890681/MEGALA U/UNION BANK OF INDIA",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 12.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-17",
+      "description": "UPI/P2A/112775423611/Vigneshkumar J UPI/EQU/AXIS SMALL FINAN",
+      "debit": 2.0,
+      "credit": 0.0,
+      "balance": 57.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-20",
+      "description": "UPI/P2A/113155188220/GOOGLE IN/AXIS BANK/UPI",
+      "debit": 90.0,
+      "credit": 3.0,
+      "balance": 57.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-27",
+      "description": "UPI/P2N/130012519490/JACOB B/BANK OF B/UPI",
+      "debit": 0.0,
+      "credit": 500.0,
+      "balance": 503.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-27",
+      "description": "UPI/P2M/113706509439/SHOPS MOPS/STATE BANK OF INDIA",
+      "debit": 230.0,
+      "credit": 0.0,
+      "balance": 273.0,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-27",
+      "description": "UPI/P2M/113727452878/JACOB H John UPI/YES BANK LIMITED YBS",
+      "debit": 50.0,
+      "credit": 0.0,
+      "balance": 223.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-30",
+      "description": "UPI/P2M/130338570707/IYA J/TAMILNAD MER",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 1223.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-30",
+      "description": "UPI/P2M/113375591500/HAKKIM A UPI/YES BANK LIMITED YBS",
+      "debit": 70.0,
+      "credit": 0.0,
+      "balance": 1153.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-30",
+      "description": "UPI/P2M/114001303920/GRAND TEA HOUSE U/P/AXIS BANK",
+      "debit": 80.0,
+      "credit": 0.0,
+      "balance": 1073.0,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-10-30",
+      "description": "UPI/P2A/113389113061/NITHIN R UPI/CANARA BANK",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 1072.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-30",
+      "description": "UPI/P2M/113401796970/Selvanayaki M UPI/YES BANK LIMITED YBS",
+      "debit": 50.0,
+      "credit": 0.0,
+      "balance": 1022.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-30",
+      "description": "UPI/P2A/50303852124/NITHIN R/CANARA BA/Copy",
+      "debit": 0.0,
+      "credit": 10.0,
+      "balance": 1032.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-30",
+      "description": "UPI/P2A/113406677273/JACOB B UPI/BANK OF BARODA",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 32.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-31",
+      "description": "UPI/P2A/56708844219/KIRUBHA N/CANARA BA/Bank of",
+      "debit": 0.0,
+      "credit": 6650.0,
+      "balance": 6682.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-31",
+      "description": "UPI/P2A/11351382688/IYA J. UPI/TAMILNAD MERCANTILE",
+      "debit": 6650.0,
+      "credit": 0.0,
+      "balance": 32.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-31",
+      "description": "UPI/P2A/567069473133/NITHIN R/CANARA BA/UPI",
+      "debit": 0.0,
+      "credit": 3000.0,
+      "balance": 3032.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-10-31",
+      "description": "UPI/P2A/113438073130/IYA J. UPI/TAMILNAD MERCANTILE",
+      "debit": 3000.0,
+      "credit": 0.0,
+      "balance": 32.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-01",
+      "description": "UPI/P2M/113468233504/BALASHANMUGAM N U/P/YES BANK LIMITED YBS",
+      "debit": 18.0,
+      "credit": 0.0,
+      "balance": 14.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-01",
+      "description": "UPI/P2M/114072348983/K LOGANATHAN P/ay to/FEDERAL BANK",
+      "debit": 14.0,
+      "credit": 0.0,
+      "balance": 57.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-03",
+      "description": "NEFT/NARCHER01/031123/INFORVIO TECHNOLOGIES PRIVAT/HDFC BANK/Salary",
+      "debit": 0.0,
+      "credit": 30000.0,
+      "balance": 30000.57,
+      "category": "Salary / Income"
+    },
+    {
+      "date": "2025-11-03",
+      "description": "UPI/P2M/113844363761/Vigneshkumar J U/P/EQUITAS SMALL FINANC",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 25000.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-03",
+      "description": "UPI/P2M/114001332924/IYA J UPI/TAMILNAD MERCANTILE",
+      "debit": 8000.0,
+      "credit": 0.0,
+      "balance": 17000.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-03",
+      "description": "UPI/P2M/113887550794/AK ENTERPRISES U/P/YES BANK LIMITED YBS",
+      "debit": 250.0,
+      "credit": 0.0,
+      "balance": 16750.57,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-03",
+      "description": "UPI/P2M/113609063934/K LOGANATHAN P/ay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 16735.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-03",
+      "description": "UPI/P2N/114300554790/JACOB B/BANK OF B/UPI",
+      "debit": 0.0,
+      "credit": 100.0,
+      "balance": 16835.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-03",
+      "description": "UPI/P2M/113644096785/SRI MURUGAN STORE U/P/AXIS BANK",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 16735.57,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-04",
+      "description": "UPI/P2M/113689370783/Jacob H John UPI/YES BANK LIMITED YBS",
+      "debit": 170.0,
+      "credit": 0.0,
+      "balance": 16565.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-04",
+      "description": "UPI/P2M/113679189872/Mc BANKESUNESAMANIAM MUPI/YES BANK LIMITED YBS",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 16535.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-05",
+      "description": "UPI/P2A/113685046079/ARAVINDH N U/P/State Bank of India",
+      "debit": 110.0,
+      "credit": 0.0,
+      "balance": 16425.57,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-05",
+      "description": "UPI/P2M/113883364709/AROMA BAKERY - PEELAM/UPI/YES BANK LIMITED YBS",
+      "debit": 277.0,
+      "credit": 0.0,
+      "balance": 16148.57,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-07",
+      "description": "172000002792900 DISB",
+      "debit": 0.0,
+      "credit": 128000.0,
+      "balance": 144148.57,
+      "category": "Internal Transfer"
+    },
+    {
+      "date": "2025-11-07",
+      "description": "UPI/P2M/531129034624/Tata Payments /Sothe N/ICICI Bank",
+      "debit": 12387.0,
+      "credit": 0.0,
+      "balance": 131761.57,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-07",
+      "description": "UPI/P2M/11509003115/GOOGLE IN/AXIS BANK/UPI",
+      "debit": 100.0,
+      "credit": 2.0,
+      "balance": 131763.0,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-08",
+      "description": "UPI/P2M/113872587528/G RAMESHKUMAR U/P/HDFC BANK LTD",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 131563.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-09",
+      "description": "UPI/P2M/113882464364/KOVAI BAKES OVEN PROS/UPI/YES BANK LIMITED YBS",
+      "debit": 155.0,
+      "credit": 0.0,
+      "balance": 131408.0,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-09",
+      "description": "UPI/P2M/113881513942/KANDAIAH KANDAN KANGAMUTHU/P/YES BANK LIMITED YBS",
+      "debit": 90.0,
+      "credit": 0.0,
+      "balance": 131318.0,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-09",
+      "description": "UPI/P2M/114006260172/M R MOBILE U/P/HDFC BANK LTD",
+      "debit": 1050.0,
+      "credit": 0.0,
+      "balance": 130268.0,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-10",
+      "description": "UPI/P2M/114115562312/Google India Service U/P/AXIS BANK",
+      "debit": 300.9,
+      "credit": 0.0,
+      "balance": 129967.67,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-10",
+      "description": "UPI/P2A/113925161571/IYA J. U/TAMILNAD MERCANTILE",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 119967.67,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-10",
+      "description": "UPI/P2M/113982395893/BHATEL MOBILES U/P/AXIS BANK",
+      "debit": 1100.0,
+      "credit": 0.0,
+      "balance": 118867.67,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "UPI/P2M/56820255538/Swiggy Limited demark/AXIS BANK",
+      "debit": 122.0,
+      "credit": 0.0,
+      "balance": 118745.67,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "UPI/P2A/113990023023/GHANAM ASATH P. U/TAMILNAD MERCANTILE",
+      "debit": 170.0,
+      "credit": 0.0,
+      "balance": 118575.67,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "UPI/P2A/11400994402/HARISH U/P/State Bank of India",
+      "debit": 40000.0,
+      "credit": 0.0,
+      "balance": 78575.67,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "UPI/P2M/114013408145/ANGA ALAMMMAM FUEL UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 78375.67,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "ATM-CASH/KEERANATHAM TOM/COIMBATORE/111125",
+      "debit": 10000.0,
+      "credit": 0.0,
+      "balance": 68375.67,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "ATM-CASH/KEERANATHAM TOM/COIMBATORE/111125",
+      "debit": 10000.0,
+      "credit": 0.0,
+      "balance": 58375.67,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "ATM-CASH/KEERANATHAM TOM/COIMBATORE/111125",
+      "debit": 10000.0,
+      "credit": 0.0,
+      "balance": 48375.67,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "ATM-CASH/KEERANATHAM TOM/COIMBATORE/111125",
+      "debit": 10000.0,
+      "credit": 0.0,
+      "balance": 38375.67,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "ATM-CASH/KEERANATHAM TOM/COIMBATORE/111125",
+      "debit": 10000.0,
+      "credit": 0.0,
+      "balance": 28375.67,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "UPI/P2A/114111561234/HARISH U/P/State Bank of India",
+      "debit": 0.0,
+      "credit": 20000.0,
+      "balance": 8375.67,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-12",
+      "description": "UPI/P2A/56823635951/HARISH /5BHIN/UPI",
+      "debit": 0.0,
+      "credit": 5000.0,
+      "balance": 13375.67,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-12",
+      "description": "UPI/P2M/114035395087/Google India Service /UPI/ICICI Bank",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 13275.67,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-12",
+      "description": "UPI/P2M/114040368118/Redbus India Private U/P/ICICI BANK",
+      "debit": 1623.0,
+      "credit": 0.0,
+      "balance": 11652.67,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-13",
+      "description": "CreditCard Payment XX 1794 Payday/COIMBATORE/IMS",
+      "debit": 3307.8,
+      "credit": 0.0,
+      "balance": 8344.87,
+      "category": "Loan Repayment"
+    },
+    {
+      "date": "2025-11-13",
+      "description": "CreditCard Payment XX 0923 REG/BANK OF BAHRAIN",
+      "debit": 2452.6,
+      "credit": 0.0,
+      "balance": 5892.27,
+      "category": "Loan Repayment"
+    },
+    {
+      "date": "2025-11-13",
+      "description": "UPI/P2M/114141154506/Velricelvan V U/P/YES BANK LIMITED YBS",
+      "debit": 480.0,
+      "credit": 0.0,
+      "balance": 5412.27,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-13",
+      "description": "UPI/P2A/568359424712/RAMA K/HDFC BANK/UPI",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 6412.27,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-14",
+      "description": "UPI/P2A/114112501630/RAMA K U/P/HDFC BANK LTD",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 6212.27,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-14",
+      "description": "UPI/P2M/114126692697/THIYAGARAJAN MANIKANDAN/UPI/YES BANK LIMITED YBS",
+      "debit": 32.0,
+      "credit": 0.0,
+      "balance": 6180.27,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-15",
+      "description": "UPI/P2M/114173110853/Google India Digital UPI/AXIS BANK",
+      "debit": 200.9,
+      "credit": 0.0,
+      "balance": 5979.37,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-15",
+      "description": "UPI/P2A/114208029622/SUDHARSION SEKAR U/P/BANK OF BARODA",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 5779.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-16",
+      "description": "UPI/P2M/114304326278/GANESAN R UPI/CANARA BANK",
+      "debit": 120.0,
+      "credit": 0.0,
+      "balance": 5659.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-16",
+      "description": "UPI/P2A/532026501199/SUMATHI V U/P/CANARA BANK",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 5509.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-16",
+      "description": "UPI/P2M/114044548079/SWATHI GANESH BAKERY AN/UPI/YES BANK LIMITED YBS",
+      "debit": 240.0,
+      "credit": 0.0,
+      "balance": 5269.37,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-16",
+      "description": "UPI/P2A/568667652075/MEGALA/UNION BANK/UPI",
+      "debit": 0.0,
+      "credit": 180.0,
+      "balance": 5449.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-16",
+      "description": "UPI/P2M/114238049455/HARI JANANI CO U/P/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 5249.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-17",
+      "description": "UPI/P2M/114269670117/KOZY BAKES UPI/YES BANK LIMITED YBS",
+      "debit": 255.0,
+      "credit": 0.0,
+      "balance": 4994.37,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-17",
+      "description": "UPI/P2M/114280754376/UM LAVANYA U/P/YES BANK LIMITED YBS",
+      "debit": 170.0,
+      "credit": 0.0,
+      "balance": 4824.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-18",
+      "description": "UPI/P2A/532238371043/JACOB/BARR/UPI",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 5824.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-18",
+      "description": "UPI/P2M/114346089848/SELVARAJ SATHISH KUMA/UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 5724.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-19",
+      "description": "ATM-CASH/SHOPS DILICHI/COIMBATORE/191125",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 4724.37,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2025-11-19",
+      "description": "UPI/P2M/114378405705/SNT AMUDHA GENERAL S/UPI/YES BANK LIMITED YBS",
+      "debit": 140.0,
+      "credit": 0.0,
+      "balance": 4584.37,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "UPI/P2M/114362787081/ANBU GANESH BAKERY AN/UPI/YES BANK LIMITED YBS",
+      "debit": 132.0,
+      "credit": 0.0,
+      "balance": 4452.37,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "UPI/P2M/114406626780/THIYAGARAJAN MANIKANDAN/UPI/YES BANK LIMITED YBS",
+      "debit": 20.0,
+      "credit": 0.0,
+      "balance": 4432.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "UPI/P2M/114439059525/Yes Bank Partner Sell/UPI/YesBank Exper",
+      "debit": 390.0,
+      "credit": 0.0,
+      "balance": 4042.37,
+      "category": "Others"
+    },
+    {
+      "date": "2025-11-21",
+      "description": "UPI/P2M/114493772667/ Mithula U/P/HDFC BANK LIMITED HDB",
+      "debit": 320.0,
+      "credit": 0.0,
+      "balance": 3722.37,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-22",
+      "description": "UPI/P2M/114500292001/Google India Digital UPI/AXIS BANK",
+      "debit": 300.9,
+      "credit": 0.0,
+      "balance": 3421.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-22",
+      "description": "UPI/P2M/114519727740/SUMATHI V U/P/CANARA BANK",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 3271.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-22",
+      "description": "UPI/P2M/114539035483/Google Digital India UPI/AXIS BANK",
+      "debit": 33.0,
+      "credit": 0.0,
+      "balance": 3238.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-22",
+      "description": "UPI/P2A/114556439347/M. Srinivasan Aravindh/U/P/CANARA BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 3223.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-22",
+      "description": "UPI/P2A/114613477341/SOUNDAR J A/P/HDFC BANK LTD",
+      "debit": 60.0,
+      "credit": 0.0,
+      "balance": 3163.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-24",
+      "description": "UPI/P2M/114643097650/SIVEE AMMAN ENTERPRISE/UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 2963.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-25",
+      "description": "UPI/P2M/11468770144/SIVEE AMMAN ENTERPRISE/UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 2863.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-25",
+      "description": "UPI/P2A/114708081607/HARISH U/P/State Bank of India",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 2763.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "UPI/P2M/114697303517/3 RAM AGENCIES UPI/YES BANK LIMITED YBS",
+      "debit": 300.0,
+      "credit": 0.0,
+      "balance": 2463.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "UPI/P2M/114708825387/Zomato Take Away /UPI/AXIS BANK",
+      "debit": 105.0,
+      "credit": 0.0,
+      "balance": 2358.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "UPI/P2N/114709996955/SOUNDAR J/HDFC BANK/UPI",
+      "debit": 0.0,
+      "credit": 25.0,
+      "balance": 2383.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-27",
+      "description": "UPI/P2M/114734179069/GANGA FOOT STORE U/P/YES BANK LIMITED YBS",
+      "debit": 86.0,
+      "credit": 0.0,
+      "balance": 2297.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-27",
+      "description": "UPI/P2M/114745236046/Google Digital India UPI/AXIS BANK",
+      "debit": 33.0,
+      "credit": 0.0,
+      "balance": 2264.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-27",
+      "description": "UPI/P2M/114732538070/Redbus India Private U/P/AXIS BANK",
+      "debit": 1890.0,
+      "credit": 0.0,
+      "balance": 374.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-27",
+      "description": "UPI/P2M/114731338083/GANESHAN S U/P/INDIAN OVERSEAS BANK",
+      "debit": 6.0,
+      "credit": 0.0,
+      "balance": 368.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-27",
+      "description": "UPI/P2M/114760199042/AROMA BAKERY - PEELAM/UPI/YES BANK LIMITED YBS",
+      "debit": 185.0,
+      "credit": 0.0,
+      "balance": 183.47,
+      "category": "Vendor Payment"
+    },
+    {
+      "date": "2025-11-28",
+      "description": "UPI/P2A/114782224396/KUMARAVEL BOOIEWELL DEN/UPI/CITY UNION BANK LTD",
+      "debit": 80.0,
+      "credit": 0.0,
+      "balance": 103.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-28",
+      "description": "UPI/P2M/114789578291/HARI JANANI CO U/P/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 3.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-28",
+      "description": "UPI/P2A/533212623155/JACOB/BANK OF B/UPI",
+      "debit": 0.0,
+      "credit": 250.0,
+      "balance": 253.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-28",
+      "description": "UPI/P2M/114850103597/RKELS RKELS U/P/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 53.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-29",
+      "description": "UPI/P2M/114831977205/KOMBAIYA U/P/YES BANK LIMITED YBS",
+      "debit": 50.0,
+      "credit": 0.0,
+      "balance": 3.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2025-11-29",
+      "description": "UPI/P2N/114847079739/SOUNDAR J/HDFC BANK/UPI",
+      "debit": 0.0,
+      "credit": 170.0,
+      "balance": 173.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-29",
+      "description": "UPI/P2A/569968173054/STEPHEN I/IOBA/UPI/",
+      "debit": 190.0,
+      "credit": 0.0,
+      "balance": 363.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-29",
+      "description": "UPI/P2A/114855366727/H HARISH KRISHNA/CNRB/UPI/India",
+      "debit": 0.0,
+      "credit": 100.0,
+      "balance": 263.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-29",
+      "description": "UPI/P2A/533348134491/KIRUBHA N/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 280.0,
+      "balance": 543.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "UPI/P2M/115074300621/SNS PETROFIL SERVICE /UPI/YES BANK LIMITED YBS",
+      "debit": 200.0,
+      "credit": 0.0,
+      "balance": 343.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "Credit Card Payment XX 0923 Ref#67EJB1/S41.0LHZ8/",
+      "debit": 300.0,
+      "credit": 0.0,
+      "balance": 43.47,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "UPI/P2M/11500679528/Google India Service P/UPI/AXIS Bank",
+      "debit": 33.0,
+      "credit": 0.0,
+      "balance": 10.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "UPI/P2A/533449993601/JAYA T/TMBL/UPI/",
+      "debit": 0.0,
+      "credit": 200.0,
+      "balance": 210.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "UPI/P2M/114980015070/LOGANATHAN V/UPI/HDFC BANK LIMITED HDB/YES",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 60.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "UPI/P2M/114993057806/G K STORE /UPI/YES BANK LIMITED YBS",
+      "debit": 49.0,
+      "credit": 0.0,
+      "balance": 11.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "UPI/P2A/114922304455/Karthicku/ESFB/UPI/",
+      "debit": 0.0,
+      "credit": 19.0,
+      "balance": 30.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "UPI/P2M/114922303574/Google India Digital A/UPI/AXIS BANK",
+      "debit": 26.0,
+      "credit": 0.0,
+      "balance": 4.47,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-04",
+      "description": "NEFT/N03423585516/5245/INFORVIO TECHNOLOGIES PRIVAT/HDFC BANK/0000000000",
+      "debit": 0.0,
+      "credit": 30000.0,
+      "balance": 30004.47,
+      "category": "NEFT / IMPS / RTGS"
+    },
+    {
+      "date": "2023-12-04",
+      "description": "UPI/P2M/11516450286/Google India Digital A/UPI/AXIS BANK",
+      "debit": 588.82,
+      "credit": 0.0,
+      "balance": 29415.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-04",
+      "description": "UPI/P2A/115178708171/Vigneshkumar J /UPI/EQUITAS SMALL FINANC",
+      "debit": 0.0,
+      "credit": 5000.0,
+      "balance": 24415.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-04",
+      "description": "UPI/P2M/115179040333/JAYALAKSHMI AMM UES / UPI/YES BANK LIMITED YBS",
+      "debit": 300.0,
+      "credit": 0.0,
+      "balance": 24115.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-04",
+      "description": "UPI/P2M/115167010562/SURESH P G/UPI/INDIAN OVERSEAS BANK",
+      "debit": 80.0,
+      "credit": 0.0,
+      "balance": 24035.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-05",
+      "description": "UPI/P2A/115142293054/JAYA T A/UPI/TAMILNAD MERCANTILE",
+      "debit": 0.0,
+      "credit": 5000.0,
+      "balance": 19035.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-05",
+      "description": "UPI/P2A/57052789786/HYDER ALI/IOBA/UPI/",
+      "debit": 10.0,
+      "credit": 0.0,
+      "balance": 19045.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-05",
+      "description": "UPI/P2M/11514493977/MR AYOOB M P /UPI/YES BANK LIMITED YBS",
+      "debit": 90.0,
+      "credit": 0.0,
+      "balance": 18955.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-05",
+      "description": "UPI/P2M/115190989079/WATER STATE BUYER/UPI/SBI PAYMENT SERVICES",
+      "debit": 300.0,
+      "credit": 0.0,
+      "balance": 18655.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-05",
+      "description": "UPI/P2A/115190981912/GANDHU R/UPI/UNION BANK OF INDIA",
+      "debit": 110.0,
+      "credit": 0.0,
+      "balance": 18545.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-05",
+      "description": "UPI/P2M/115161026050/GANDHU R/UPI/UNION BANK OF INDIA",
+      "debit": 10.0,
+      "credit": 0.0,
+      "balance": 18535.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-06",
+      "description": "UPI/P2M/115218714571/Gurudeva Restaurant /UPI/AXIS Bank",
+      "debit": 735.0,
+      "credit": 0.0,
+      "balance": 17800.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-06",
+      "description": "UPI/P2A/115234939323/KUMARAVEL BOREWELL ENA/UPI/CITY UNION BANK LTD",
+      "debit": 80.0,
+      "credit": 0.0,
+      "balance": 17720.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-06",
+      "description": "UPI/P2A/115288929778/KIRUBHA N/SBI/ASAMY /UPI/CANARA BANK",
+      "debit": 0.0,
+      "credit": 10000.0,
+      "balance": 7720.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-07",
+      "description": "UPI/P2A/534147701523/KIRUBHA N/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 1200.0,
+      "balance": 8920.65,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-08",
+      "description": "UPI/P2M/115295070616/Google India Service A/UPI/ICICI Bank",
+      "debit": 300.9,
+      "credit": 0.0,
+      "balance": 8619.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-08",
+      "description": "UPI/P2A/115414572219/H HARISH /SBIN/UPI/",
+      "debit": 0.0,
+      "credit": 250.0,
+      "balance": 8869.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-08",
+      "description": "UPI/P2A/115299394409/H HARISH /UPI/State Bank Of India",
+      "debit": 250.0,
+      "credit": 0.0,
+      "balance": 8619.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-08",
+      "description": "UPI/P2A/115317459360/MALIN/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 6000.0,
+      "balance": 14619.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-08",
+      "description": "UPI/P2A/115317431282/SENTHIN R /UPI/CANARA BANK",
+      "debit": 500.0,
+      "credit": 0.0,
+      "balance": 14119.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-08",
+      "description": "UPI/P2A/115321383726/THIRUSELVAN R /UPI/UNION BANK OF INDIA",
+      "debit": 600.0,
+      "credit": 0.0,
+      "balance": 13519.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-09",
+      "description": "UPI/P2A/534344000399/KIRUBHA N/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 500.0,
+      "balance": 14019.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-10",
+      "description": "UPI/P2A/534498262871/JAYA T/TMBL/UPI/",
+      "debit": 0.0,
+      "credit": 15000.0,
+      "balance": 29019.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-10",
+      "description": "UPI/P2A/570112528703/KIRUBHA N/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 400.0,
+      "balance": 29419.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-10",
+      "description": "UPI/P2M/11538259549/KARTHIK M A/UPI/YES BANK LIMITED YBS",
+      "debit": 65.0,
+      "credit": 0.0,
+      "balance": 29354.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-11",
+      "description": "ATM-CASH-AXIS/BPCN140206/8930/111225/COIMBATOR",
+      "debit": 8000.0,
+      "credit": 0.0,
+      "balance": 21354.75,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2023-12-11",
+      "description": "ATM-CASH-AXIS/BPCN140206/8931/111225/COIMBATOR",
+      "debit": 7000.0,
+      "credit": 0.0,
+      "balance": 14354.75,
+      "category": "Cash Deposit / Withdrawal"
+    },
+    {
+      "date": "2023-12-12",
+      "description": "UPI/P2A/114952414817/K W/N KUMAR /UPI/INDIAN OVERSEAS BANK",
+      "debit": 2500.0,
+      "credit": 0.0,
+      "balance": 11854.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-12",
+      "description": "UPI/P2M/108744711039/Tata Payments Axis/UPI/ICICI Bank",
+      "debit": 6565.0,
+      "credit": 0.0,
+      "balance": 5289.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-12",
+      "description": "UPI/P2A/115424514442/JAYA J J/UPI/TAMILNAD MERCANTILE",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 3289.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-12",
+      "description": "UPI/P2A/50971051505/GOOGLE IN/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 2.0,
+      "balance": 3291.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-12",
+      "description": "UPI/P2A/115411103455/GOOGLE IN/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 1.0,
+      "balance": 3292.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-13",
+      "description": "UPI/P2M/115581536993/Velumani MedicalCenter/Verti/YES BANK LIMITED YBS",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 3262.75,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-14",
+      "description": "Credit Card Payment XX 0923 Ref#N09A7CN05C4G8/71",
+      "debit": 2502.24,
+      "credit": 0.0,
+      "balance": 760.51,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2023-12-15",
+      "description": "UPI/P2M/116035171960/SRI KRISHNA FUELS /UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 660.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-15",
+      "description": "UPI/P2M/115409115073/ R ILAITHI R/UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 560.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-16",
+      "description": "UPI/P2A/183391013505/GOOGLE IN/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 1.0,
+      "balance": 561.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-16",
+      "description": "UPI/P2A/183433623505/GOOGLE IN/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 2.0,
+      "balance": 563.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-16",
+      "description": "UPI/P2A/115711105929/SRI DHANU PRASHADH J/ 10 clk/CITY UNION BANK LTD",
+      "debit": 500.0,
+      "credit": 0.0,
+      "balance": 63.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-16",
+      "description": "UPI/P2M/115729100132/SURESH P G/UPI/INDIAN OVERSEAS BANK",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 33.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-17",
+      "description": "UPI/P2A/535124467418/J ACOB/BARB/UPI/",
+      "debit": 0.0,
+      "credit": 500.0,
+      "balance": 533.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-17",
+      "description": "UPI/P2A/115748877520/M DHANU PRASHADH J/UPI/CITY UNION BANK LTD",
+      "debit": 500.0,
+      "credit": 0.0,
+      "balance": 33.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-17",
+      "description": "UPI/P2A/571770746300/MANASA K/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 25000.0,
+      "balance": 25033.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-18",
+      "description": "UPI/P2A/115760725197/M DHANU PRASHADH J/UPI/CITY UNION BANK LTD",
+      "debit": 4000.0,
+      "credit": 0.0,
+      "balance": 21033.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-18",
+      "description": "UPI/P2A/11584826975/SABARINATHAN A /UPI/ICICI Bank",
+      "debit": 12.0,
+      "credit": 0.0,
+      "balance": 21021.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-18",
+      "description": "UPI/P2M/115834040000/K LOGANATHAN P/UPI/CANARA BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 21006.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-19",
+      "description": "UPI/P2A/115850647914/KIRUBHA N/SBI/ASAMY /UPI/CANARA BANK",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 20006.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-19",
+      "description": "UPI/P2A/115844566904/KIRUBHA N/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 900.0,
+      "balance": 20906.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-19",
+      "description": "UPI/P2A/115856111099/ANASTO MEJIN A /UPI/State Bank Of India",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 15906.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-19",
+      "description": "UPI/P2M/1158807160/K LOGANATHAN P/UPI/CANARA BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 15891.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-20",
+      "description": "UPI/P2A/115903573411/SABARINATHAN A /UPI/ICICI Bank",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 10891.51,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-20",
+      "description": "ATM W/D Charges Incl GST",
+      "debit": 27.14,
+      "credit": 0.0,
+      "balance": 10864.37,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2023-12-21",
+      "description": "Credit Card Payment XX 1794 Ref#41GPMY2WJKRFX0G/",
+      "debit": 3477.88,
+      "credit": 0.0,
+      "balance": 7386.49,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2023-12-22",
+      "description": "UPI/P2A/116067755850/SOUNDAR J /UPI/HDFC BANK LTD",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 7286.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-23",
+      "description": "UPI/P2M/11609139226/SRINIRAJ KUMAR S/UPI/YES BANK LIMITED YBS",
+      "debit": 40.0,
+      "credit": 0.0,
+      "balance": 7246.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-23",
+      "description": "UPI/P2M/116104676647/K LOGANATHAN P/UPI/CANARA BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 7231.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-24",
+      "description": "UPI/P2A/572411472849/NITHIN R/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 9000.0,
+      "balance": 16231.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-25",
+      "description": "UPI/P2M/235810157958/Swiggy /Swiggy/AXIS Payments Bank",
+      "debit": 183.0,
+      "credit": 0.0,
+      "balance": 16048.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-25",
+      "description": "UPI/P2A/116084553470/Achallan Tamil Nadu P/cdes/State Bank Of India",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 15048.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-25",
+      "description": "UPI/P2M/11614754457/TASTY BAKES A/UPI/YES BANK LIMITED YBS",
+      "debit": 607.0,
+      "credit": 0.0,
+      "balance": 14441.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-25",
+      "description": "UPI/P2M/116161118036/TASTY BAKES A/UPI/YES BANK LIMITED YBS",
+      "debit": 275.0,
+      "credit": 0.0,
+      "balance": 14166.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-25",
+      "description": "UPI/P2M/116172855965/Lulu Coimbatore Payment/Axis Bank",
+      "debit": 150.0,
+      "credit": 0.0,
+      "balance": 14016.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-26",
+      "description": "UPI/P2A/116230479530/PRASANTH D /UPI/Indian Bank",
+      "debit": 500.0,
+      "credit": 0.0,
+      "balance": 13516.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-26",
+      "description": "UPI/P2A/11623562013/MR DHANU PRASHADH J/UPI/CITY UNION BANK LTD",
+      "debit": 300.0,
+      "credit": 0.0,
+      "balance": 13216.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-27",
+      "description": "UPI/P2A/114864198064/KIRUBHA N/SBI/ASAMY /UPI/CANARA BANK",
+      "debit": 2500.0,
+      "credit": 0.0,
+      "balance": 10716.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-28",
+      "description": "UPI/P2A/11629447493/SENTHIN R /UPI/CANARA BANK",
+      "debit": 4000.0,
+      "credit": 0.0,
+      "balance": 6716.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-29",
+      "description": "UPI/P2A/116345631245/SANJAY ROHITH A /UPI/HDFC BANK LTD",
+      "debit": 70.0,
+      "credit": 0.0,
+      "balance": 6646.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-30",
+      "description": "UPI/P2A/565409203645/GOOGLE IN/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 2.0,
+      "balance": 6648.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-30",
+      "description": "UPI/P2M/116406873927/New Take Away /UPI/AXIS Bank",
+      "debit": 120.0,
+      "credit": 0.0,
+      "balance": 6528.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-31",
+      "description": "UPI/P2M/116421764826/RAJASEKAR PETTY SHOP/UPI/YES BANK LIMITED YBS",
+      "debit": 20.0,
+      "credit": 0.0,
+      "balance": 6508.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-31",
+      "description": "UPI/P2A/116467140871/JAYAKISHOREKUBA/U PI",
+      "debit": 0.0,
+      "credit": 2000.0,
+      "balance": 8508.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2023-12-31",
+      "description": "UPI/P2M/116480667360/KOVAI BAKES OVEN FRES/UPI/YES BANK LIMITED YBS",
+      "debit": 230.0,
+      "credit": 0.0,
+      "balance": 8278.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-01",
+      "description": "UPI/P2A/66700314073/JAYA J/TMBL/UPI/",
+      "debit": 0.0,
+      "credit": 3500.0,
+      "balance": 11778.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-01",
+      "description": "UPI/P2A/116488773071/BHUVANESWARI S /UPI/KARUR VYSYA BANK",
+      "debit": 4500.0,
+      "credit": 0.0,
+      "balance": 7278.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-01",
+      "description": "UPI/P2A/53671003666/BHUVANESWARI/KVBL/ UPI/",
+      "debit": 0.0,
+      "credit": 4050.0,
+      "balance": 11328.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-01",
+      "description": "UPI/P2A/116491106004/JACOB J/UPI/BANK OF BARODA",
+      "debit": 3050.0,
+      "credit": 0.0,
+      "balance": 8278.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-02",
+      "description": "UPI/P2A/157321740016/GOOGLE IN/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 1.0,
+      "balance": 8279.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-02",
+      "description": "UPI/P2A/157331660016/GOOGLE IN/UTIB/UPI/",
+      "debit": 0.0,
+      "credit": 11.0,
+      "balance": 8290.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-02",
+      "description": "SB 90059301402284/Int Jan 01 01-2023 31-12 2023",
+      "debit": 0.0,
+      "credit": 72.0,
+      "balance": 8362.49,
+      "category": "Charges / Fees / Interest"
+    },
+    {
+      "date": "2024-01-02",
+      "description": "UPI/P2M/116680817867/K LOGANATHAN P/Pay to/FEDERAL BANK",
+      "debit": 15.0,
+      "credit": 0.0,
+      "balance": 8347.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-01-02",
+      "description": "UPI/P2M/116597196141/M A AGENCIES /UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 8247.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-02-06",
+      "description": "UPI/P2A/115187191045/Mrs JAYAPRIYA V /UPI/INDIAN BANK",
+      "debit": 8000.0,
+      "credit": 0.0,
+      "balance": 247.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-03-01",
+      "description": "NEFT/N036087900794/52/INFORVIO TECHNOLOGY PRIVAT/HDFC BANK/0000000000",
+      "debit": 0.0,
+      "credit": 30000.0,
+      "balance": 30247.49,
+      "category": "NEFT / IMPS / RTGS"
+    },
+    {
+      "date": "2024-03-01",
+      "description": "UPI/P2A/116661951345/Vigneshkumar J /UPI/EQUITAS SMALL FINANC",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 25247.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-03-01",
+      "description": "UPI/P2M/116654019554/Google India Digital A/UPI/AXIS BANK",
+      "debit": 338.0,
+      "credit": 0.0,
+      "balance": 24909.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-03-01",
+      "description": "UPI/P2A/536004402446/J ACOB B/BARB/UPI/",
+      "debit": 0.0,
+      "credit": 100.0,
+      "balance": 25009.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-03-01",
+      "description": "UPI/P2A/116670423452/JAYA J J/UPI/TAMILNAD MERCANTILE",
+      "debit": 4000.0,
+      "credit": 0.0,
+      "balance": 21009.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-03-01",
+      "description": "UPI/P2A/667004709572/KIRUBHA W/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 2900.0,
+      "balance": 23909.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-03-01",
+      "description": "UPI/P2A/116675078027/Mrs JAYAPRIYA V /UPI/INDIAN BANK",
+      "debit": 3000.0,
+      "credit": 0.0,
+      "balance": 20909.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-04-01",
+      "description": "UPI/P2A/116679507987/RAJESHKUMAR R /UPI/CANARA BANK",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 19909.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-04-01",
+      "description": "UPI/P2M/116900755905/RAMAKRISHNA MISSION V/UPI/HDFC BANK LTD",
+      "debit": 90.0,
+      "credit": 0.0,
+      "balance": 19819.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-04-01",
+      "description": "UPI/P2M/116670110309/RADHAKRISHNAN R /UPI/YES BANK LIMITED YBS",
+      "debit": 60.0,
+      "credit": 0.0,
+      "balance": 19759.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-04-01",
+      "description": "UPI/P2M/116688705986/Mr Karthickraja A /Pay to/FEDERAL BANK",
+      "debit": 60.0,
+      "credit": 0.0,
+      "balance": 19699.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2024-04-01",
+      "description": "UPI/P2M/116687440516/Master Satyamkumar/UPI/Central Bank Of India",
+      "debit": 30.0,
+      "credit": 0.0,
+      "balance": 19669.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-05",
+      "description": "UPI/P2A/116712933796/KIRUBHA S/AXISAMS.../PAYZAHANA BANK",
+      "debit": 799.0,
+      "credit": 0.0,
+      "balance": 18870.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-05",
+      "description": "UPI/P2M/116616870140/T.De Payments/Some N/ICICI BANK",
+      "debit": 10883.0,
+      "credit": 0.0,
+      "balance": 7987.49,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-05",
+      "description": "UPI/P2M/116710070246/Google India Digital/UPI/AXIS BANK",
+      "debit": 1581.54,
+      "credit": 0.0,
+      "balance": 6405.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-05",
+      "description": "UPI/P2A/600855895419/BHAVATARI/SBIN/UPI",
+      "debit": 0.0,
+      "credit": 2000.0,
+      "balance": 8405.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-05",
+      "description": "UPI/P2A/116744023598/AISWARYAL/HDFC/th and",
+      "debit": 0.0,
+      "credit": 1.0,
+      "balance": 8406.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-05",
+      "description": "UPI/P2A/116744525086/Mrs JAYAPRIYA V/UPI/INDIAN BANK",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 6406.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "UPI/P2A/600602712554/Ms.Dharsh/CIUB/UPI/",
+      "debit": 0.0,
+      "credit": 2000.0,
+      "balance": 8406.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "UPI/P2A/600666812363/JAYA J/TMBL/UPI/",
+      "debit": 0.0,
+      "credit": 2000.0,
+      "balance": 10406.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "UPI/P2A/116749645563/Mrs JAYAPRIYA V/UPI/INDIAN BANK",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 8406.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "UPI/P2M/116750718184/SRI KRISHNA FUELS/UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 8306.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "UPI/P2M/116750698300/SAI PETROFIL SERVICE/UPI/YES BANK LIMITED YBS",
+      "debit": 100.0,
+      "credit": 0.0,
+      "balance": 8206.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-07",
+      "description": "UPI/P2A/116761636529/JAYA J/UPI/TAMILNAD MERCANTILE",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 6206.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-08",
+      "description": "UPI/P2M/116890762695/JANANI K/UPI/AXIS BANK",
+      "debit": 230.0,
+      "credit": 0.0,
+      "balance": 5976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "UPI/P2A/637538510037/MALINI/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 6976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "UPI/P2A/116901700889/Mrs JAYAPRIYA V/UPI/INDIAN BANK",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 5976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "UPI/P2A/637606936936/CHANDRA N/CNRB/UPI/",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 6976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "UPI/P2A/116926140984/Mrs JAYAPRIYA V/UPI/INDIAN BANK",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 5976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "UPI/P2A/116935327077/Surska M/BARB/UPI/",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 6976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "UPI/P2A/63750072977/MENAKA L/KVBL/UPI/",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 7976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "UPI/P2A/116916121700/Mrs JAYAPRIYA V/UPI/INDIAN BANK",
+      "debit": 2000.0,
+      "credit": 0.0,
+      "balance": 5976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-10",
+      "description": "UPI/P2A/116957300872/SHENBAGAD/SBIN/UPI",
+      "debit": 0.0,
+      "credit": 1000.0,
+      "balance": 6976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    },
+    {
+      "date": "2026-01-10",
+      "description": "UPI/P2A/116958052284/Mrs JAYAPRIYA V/UPI/INDIAN BANK",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 5976.95,
+      "category": "UPI – P2P / P2M / P2A"
+    }
+  ],
+  "summary": {
+    "average_bank_balance": 15576.66,
+    "total_debits": 420111.52,
+    "total_credits": 538409.0
+  }
+}
