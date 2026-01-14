@@ -1,0 +1,6 @@
+google-genai
+pdf2image
+pydantic
+python-dotenv
+pillow
+python-magic

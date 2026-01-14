@@ -1,0 +1,785 @@
+{
+  "bank_name": "ICICI",
+  "account_holder": "JEEVAKA NETTING UDYOG",
+  "account_number": "487151000001",
+  "ifsc": "ICIC0004871",
+  "transactions": [
+    {
+      "date": "01/Sep/25",
+      "description": "INF/NEFT/ICICN42025090150531580 N0011347/MSPLGA",
+      "debit": 3767.0,
+      "credit": 0.0,
+      "balance": 434634.93
+    },
+    {
+      "date": "02/Sep/25",
+      "description": "487151000001:Int.Credit/INT CR/01-09-2025",
+      "debit": 0.0,
+      "credit": 331903.0,
+      "balance": 437953.93
+    },
+    {
+      "date": "03/Sep/25",
+      "description": "INF/NEFT/ICICN4202509035656490/BCT JEEYS/JEEVAKA EN GINES",
+      "debit": 2891.0,
+      "credit": 0.0,
+      "balance": 437931.93
+    },
+    {
+      "date": "03/Sep/25",
+      "description": "INF/NEFT/0414680227/AKS/RGSHNAST EEL",
+      "debit": 40000.0,
+      "credit": 0.0,
+      "balance": 477931.93
+    },
+    {
+      "date": "03/Sep/25",
+      "description": "INF/NEFT/ICICN42025090356771030 N003463/BHAGAW TENTERPRI",
+      "debit": 0.0,
+      "credit": 364324.0,
+      "balance": 481525.93
+    },
+    {
+      "date": "05/Sep/25",
+      "description": "INF/IMPS/ICICI BANK LIMITED/ICIC0000057/52564205560933 4473479",
+      "debit": 86014.0,
+      "credit": 0.0,
+      "balance": 482465.93
+    },
+    {
+      "date": "05/Sep/25",
+      "description": "INF/NEFT/ICICN4202509055714515/SRI N003102/SMHARA MANU",
+      "debit": 4708.0,
+      "credit": 0.0,
+      "balance": 483112.93
+    },
+    {
+      "date": "05/Sep/25",
+      "description": "INF/NEFT/ICICN4202509055716298/GGL A003019/GLOBALB O",
+      "debit": 41359.0,
+      "credit": 0.0,
+      "balance": 483924.93
+    },
+    {
+      "date": "05/Sep/25",
+      "description": "INF/NEFT/ICICN4202509055716320/SMN N000763/RAGAVE NUDYOG",
+      "debit": 13681.0,
+      "credit": 0.0,
+      "balance": 483003.93
+    },
+    {
+      "date": "07/Sep/25",
+      "description": "ACH/HDFC BANK LIMITED/HDFC0000458/0413000013 560637",
+      "debit": 72893.0,
+      "credit": 0.0,
+      "balance": 483812.93
+    },
+    {
+      "date": "08/Sep/25",
+      "description": "INF/NEFT/ICICN4202509085349150/BAJ N000008/SHIRAJ E NTERPRISE",
+      "debit": 38562.0,
+      "credit": 0.0,
+      "balance": 484197.93
+    },
+    {
+      "date": "08/Sep/25",
+      "description": "INF/NEFT/ICICN4202509085399920/SVI N000007/S S B INDUS",
+      "debit": 28910.0,
+      "credit": 0.0,
+      "balance": 484486.93
+    },
+    {
+      "date": "08/Sep/25",
+      "description": "INF/NEFT/ICICN4202509085400508/SI N0001722/MAHARA JA TOWER",
+      "debit": 50580.0,
+      "credit": 0.0,
+      "balance": 484436.93
+    },
+    {
+      "date": "09/Sep/25",
+      "description": "INF/NEFT/ICICN4202509095460596/GGL N0011347/MSPLGA",
+      "debit": 1800.0,
+      "credit": 0.0,
+      "balance": 485030.93
+    },
+    {
+      "date": "09/Sep/25",
+      "description": "INF/NEFT/0415453818/AKS/JEEVAKA INDUST",
+      "debit": 0.0,
+      "credit": 50000.0,
+      "balance": 435030.93
+    },
+    {
+      "date": "09/Sep/20",
+      "description": "GIB/002049554012/GIB/25090900404176IC",
+      "debit": 3212.0,
+      "credit": 0.0,
+      "balance": 436062.93
+    },
+    {
+      "date": "09/Sep/20",
+      "description": "GIB/002049555568/GIB/25090900418686IC",
+      "debit": 3892.0,
+      "credit": 0.0,
+      "balance": 438955.93
+    },
+    {
+      "date": "09/Sep/20",
+      "description": "INF/NEFT/0415481635/050021 PM",
+      "debit": 4985.0,
+      "credit": 0.0,
+      "balance": 439004.93
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "RTGS/ICICN4202509100952171/HDFC0000032/SHREE AMMA N CONSULTING AND CONSUL",
+      "debit": 3000.0,
+      "credit": 0.0,
+      "balance": 442004.93
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "RTGS/ICICN420250910052360/KVB0001228/HINDUSTA CHIT FUND PVT LTD",
+      "debit": 23800.0,
+      "credit": 0.0,
+      "balance": 465804.93
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "INF/NEFT/ICICN4202509105469370/HD N000078/GURUVE HARRITEC",
+      "debit": 1500.0,
+      "credit": 0.0,
+      "balance": 467304.93
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "IMPS/00000091009160004/THE SOUTH INDIAN BANK LTD/FAST/TSIB0000067/6610000661",
+      "debit": 0.0,
+      "credit": 0.7,
+      "balance": 467305.63
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "INF/IMPS/52581000678231/GAURAV T/7355427355/1443135000004464 26/SREENATHA",
+      "debit": 0.0,
+      "credit": 223260.0,
+      "balance": 467307.23
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "INF/NEFT/ICICN4202509105479007/M/S 000308/PADMAPO ORNESHWAR",
+      "debit": 124830.0,
+      "credit": 0.0,
+      "balance": 246303.23
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "INF/NEFT/ICICN4202509105481829/P/S 000006/SARAVE NREDDY",
+      "debit": 127440.0,
+      "credit": 0.0,
+      "balance": 246527.23
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "INF/NEFT/ICICN4202509105977510/SRI N003666/SHIBAH TATION",
+      "debit": 167500.0,
+      "credit": 0.0,
+      "balance": 248252.23
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "INF/IMPS/525321540445/AKASH/SBIN00 7068",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 253252.23
+    },
+    {
+      "date": "10/Sep/20",
+      "description": "IMPS/IMPS/525321689260/AKSHAY/SBIN0 7068",
+      "debit": 5000.0,
+      "credit": 0.0,
+      "balance": 258252.23
+    },
+    {
+      "date": "11/Sep/20",
+      "description": "INF/NEFT/ICICN4202509115454640/M/S D000845/BASAVAR AJESHWARI",
+      "debit": 50000.0,
+      "credit": 0.0,
+      "balance": 258202.23
+    },
+    {
+      "date": "12/Sep/20",
+      "description": "INF/NEFT/0415878544/AKS/JEEVAKA INDUS TRIES",
+      "debit": 51920.0,
+      "credit": 0.0,
+      "balance": 259271.23
+    },
+    {
+      "date": "12/Sep/20",
+      "description": "INF/NEFT/ICICN4202509125736810/SRI N003102/SMHARA MANU",
+      "debit": 3453.0,
+      "credit": 0.0,
+      "balance": 259306.93
+    },
+    {
+      "date": "12/Sep/20",
+      "description": "INF/IMPS/52581000678231/GAURAV T/7355427355/1443135000004464 26/SREENATHA",
+      "debit": 0.0,
+      "credit": 22323.2,
+      "balance": 262305.63
+    },
+    {
+      "date": "12/Sep/20",
+      "description": "INF/NEFT/ICICN4202509125761920/M/S D008033/SRIMARU TI TEXTILE",
+      "debit": 40000.0,
+      "credit": 0.0,
+      "balance": 364535.23
+    },
+    {
+      "date": "13/Sep/20",
+      "description": "INF/NEFT/ICICN4202509135759750/SRI N000007/SRRMIN I GASES",
+      "debit": 2891.0,
+      "credit": 0.0,
+      "balance": 364826.23
+    },
+    {
+      "date": "13/Sep/20",
+      "description": "penal charges",
+      "debit": 26992.09,
+      "credit": 0.0,
+      "balance": 367575.18
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "MMT/IMPS/525812217820/RASHMI JAIN/M/ICIC0000002/ M/XKBIK0007494",
+      "debit": 100000.0,
+      "credit": 0.0,
+      "balance": 377575.18
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155969036/UTI N000073/UTI",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 387575.18
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155700870/SH N0031124/NIHAJ",
+      "debit": 48200.0,
+      "credit": 0.0,
+      "balance": 392375.18
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN420250915570200/NAND N001212/ARJUNSI",
+      "debit": 20035.0,
+      "credit": 0.0,
+      "balance": 394380.23
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "RTGS/ICICN420250915095034/YESB0000109/GURU SHAKTI",
+      "debit": 25000.0,
+      "credit": 0.0,
+      "balance": 644380.23
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/0416148888/AKS/JEEVAKA INDUSTRIES",
+      "debit": 20000.0,
+      "credit": 0.0,
+      "balance": 844380.23
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155962021/RK N000049/KRISHNA",
+      "debit": 98000.0,
+      "credit": 0.0,
+      "balance": 854417.53
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155706560/M/S N0048171/SHAIKAH MEDIAS",
+      "debit": 33928.0,
+      "credit": 0.0,
+      "balance": 857681.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "RTGS/ICICN420250915095393/HDFC0000044/VAISHNAVI SALES",
+      "debit": 50000.0,
+      "credit": 0.0,
+      "balance": 1357681.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155969230/GA N000783/AKHTUN ATKUPPAN",
+      "debit": 48200.0,
+      "credit": 0.0,
+      "balance": 1362381.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155971096/CN N000048/BHAGYA OJAR",
+      "debit": 19078.0,
+      "credit": 0.0,
+      "balance": 1364299.31
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155971207/UBI N000037/AMETH Y",
+      "debit": 18170.0,
+      "credit": 0.0,
+      "balance": 1366111.31
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155971407/KR N0013146/MANAYV",
+      "debit": 19102.0,
+      "credit": 0.0,
+      "balance": 1368023.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155971480/MA N000001/SARADE HARPUJARI",
+      "debit": 15132.0,
+      "credit": 0.0,
+      "balance": 1369535.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155971441/PU N000030/SREE SA ERA SWAMI",
+      "debit": 15132.0,
+      "credit": 0.0,
+      "balance": 1371047.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155971490/SRE N000048/SHIBUH T",
+      "debit": 18110.0,
+      "credit": 0.0,
+      "balance": 1372858.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155708890/SVI BIK008256/SANTO SHAPET",
+      "debit": 71668.0,
+      "credit": 0.0,
+      "balance": 1380027.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155973315/SRI N0000763/SSSECUR",
+      "debit": 255747.0,
+      "credit": 0.0,
+      "balance": 1405601.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155973417/AB N001097/SRIDURA ROLPROP",
+      "debit": 141100.0,
+      "credit": 0.0,
+      "balance": 1410311.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155973725/TKA N000701/SREE V ENET E RPR",
+      "debit": 3186.0,
+      "credit": 0.0,
+      "balance": 1413497.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155973933/BA N000067/SHRI B ANET TING",
+      "debit": 190520.0,
+      "credit": 0.0,
+      "balance": 1429688.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/0416719712/071/Gulbargo E",
+      "debit": 4414012.0,
+      "credit": 0.0,
+      "balance": 1471098.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN4202509155974067/MA N000042/DURGAMA RAJ",
+      "debit": 44870.0,
+      "credit": 0.0,
+      "balance": 1475585.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "RTGS/ICICN4202509150953980/SBIN0001859/M A J AIMANUALD",
+      "debit": 50000.0,
+      "credit": 0.0,
+      "balance": 1480585.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN420250915597581/SRI N000030/SREE SWAMI",
+      "debit": 4708.0,
+      "credit": 0.0,
+      "balance": 1481056.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/0416218043/SIV/JADESHWA RA",
+      "debit": 870513.0,
+      "credit": 0.0,
+      "balance": 1568107.32
+    },
+    {
+      "date": "15/Sep/20",
+      "description": "INF/NEFT/ICICN420250915571027/CH N000077/SHRISAI ENGINEE",
+      "debit": 1000.0,
+      "credit": 0.0,
+      "balance": 1579959.32
+    },
+    {
+      "date": "16/09/2025",
+      "description": "INF/NEFT/ICICN4202509160007876/09161748/BPLFACTORY/BPLFACTORS,TLD",
+      "debit": 300.0,
+      "credit": 0.0,
+      "balance": 158222.7
+    },
+    {
+      "date": "16/09/2025",
+      "description": "IMPS Chg JUL-SEP/4442",
+      "debit": 17.7,
+      "credit": 0.0,
+      "balance": 158222.52
+    },
+    {
+      "date": "16/09/2025",
+      "description": "INF/NEFT/ICICN4202509160008323/09161748/NAMIK/NAMIKKAG",
+      "debit": 0.0,
+      "credit": 90000.0,
+      "balance": 159122.52
+    },
+    {
+      "date": "16/09/2025",
+      "description": "INF/NEFT/ICICN4202509160009594/09161748/ABSHNA/ABSHNARNASHN",
+      "debit": 75000.0,
+      "credit": 0.0,
+      "balance": 159072.52
+    },
+    {
+      "date": "16/09/2025",
+      "description": "INF/NEFT/ICICN4202509160009620/09161748/GUYAR/GUYARASAPPA",
+      "debit": 81000.0,
+      "credit": 0.0,
+      "balance": 160682.52
+    },
+    {
+      "date": "17/09/2025",
+      "description": "INF/NEFT/ICICN4202509170010861/09170044/ROHIT/ROHITMAH",
+      "debit": 331322.0,
+      "credit": 0.0,
+      "balance": 163996.2
+    },
+    {
+      "date": "17/09/2025",
+      "description": "INF/NEFT/ICICN4202509170016419/09170044/RAJA/RAJAENATER",
+      "debit": 15612.0,
+      "credit": 0.0,
+      "balance": 164152.32
+    },
+    {
+      "date": "18/09/2025",
+      "description": "CLG/CRSMDA/WELKE/WELKEME",
+      "debit": 7027.0,
+      "credit": 0.0,
+      "balance": 164222.59
+    },
+    {
+      "date": "18/09/2025",
+      "description": "INF/NEFT/ICICN4202509180011709/09180060/RUKM/RUKMIN",
+      "debit": 2891.0,
+      "credit": 0.0,
+      "balance": 164222.5
+    },
+    {
+      "date": "18/09/2025",
+      "description": "IBIL/ONL/001080761",
+      "debit": 1532.0,
+      "credit": 0.0,
+      "balance": 164266.82
+    },
+    {
+      "date": "18/09/2025",
+      "description": "IBIL/ONL/001080762",
+      "debit": 1533.0,
+      "credit": 0.0,
+      "balance": 164282.15
+    },
+    {
+      "date": "19/09/2025",
+      "description": "CLG/CRISDA/OWNER/OWNERPRIDE",
+      "debit": 1785.0,
+      "credit": 0.0,
+      "balance": 164300.0
+    },
+    {
+      "date": "19/09/2025",
+      "description": "INF/NEFT/ICICN42025091905215492/SBLOWNER/SBLOWNERCHEL",
+      "debit": 4708.0,
+      "credit": 0.0,
+      "balance": 164317.93
+    },
+    {
+      "date": "20/09/2025",
+      "description": "INF/NEFT/041723594/SBLOWNER/SKRISHNAST",
+      "debit": 80000.0,
+      "credit": 0.0,
+      "balance": 244347.08
+    },
+    {
+      "date": "20/09/2025",
+      "description": "INF/NEFT/ICICN4202509200021358/RESER/RESERVEBANK",
+      "debit": 33427.0,
+      "credit": 0.0,
+      "balance": 244681.35
+    },
+    {
+      "date": "20/09/2025",
+      "description": "RTGS/ICICN5202509200022359/RESERVEBANK OF/GEST",
+      "debit": 894378.0,
+      "credit": 0.0,
+      "balance": 253625.13
+    },
+    {
+      "date": "20/09/2025",
+      "description": "INF/NEFT/ICICN42025092005289934/SBLOWNER/SBLOWNERCHEL",
+      "debit": 70000.0,
+      "credit": 0.0,
+      "balance": 254325.13
+    },
+    {
+      "date": "20/09/2025",
+      "description": "INF/NEFT/ICICN42025092005290484/RUKM/RUKMIN",
+      "debit": 166129.0,
+      "credit": 0.0,
+      "balance": 259996.13
+    },
+    {
+      "date": "22/09/2025",
+      "description": "INF/NEFT/ICICN4202509220005574/09220060/RBO/RBOICIC",
+      "debit": 100000.0,
+      "credit": 0.0,
+      "balance": 259996.13
+    },
+    {
+      "date": "22/09/2025",
+      "description": "RTGS/ICICN42025092205315357/0922001443/GAURAV/GAURAVBHAR",
+      "debit": 21555.0,
+      "credit": 0.0,
+      "balance": 278536.42
+    },
+    {
+      "date": "22/09/2025",
+      "description": "INF/NEFT/ICICN4202509220531589/09220027/INSEENGINEERING",
+      "debit": 69600.0,
+      "credit": 0.0,
+      "balance": 279232.52
+    },
+    {
+      "date": "22/09/2025",
+      "description": "INF/NEFT/ICICN4202509220532489/ICICN0000000/SURYA/SURYASINGASES",
+      "debit": 2891.0,
+      "credit": 0.0,
+      "balance": 279261.62
+    },
+    {
+      "date": "23/09/2025",
+      "description": "INF/NEFT/ICICN4202509230536231/09230044/RBO/RBOICICN",
+      "debit": 102707.0,
+      "credit": 0.0,
+      "balance": 280288.62
+    },
+    {
+      "date": "23/09/2025",
+      "description": "INF/NEFT/ICICN4202509230537332/ICICN0011347/MSPLGA",
+      "debit": 4080.0,
+      "credit": 0.0,
+      "balance": 280332.2
+    },
+    {
+      "date": "24/09/2025",
+      "description": "INF/NEFT/ICICN4202509240538059/ICICN0018230/THRED",
+      "debit": 119266.0,
+      "credit": 0.0,
+      "balance": 281531.46
+    },
+    {
+      "date": "25/09/2025",
+      "description": "INF/NEFT/041722392/JEEVA/JEEVAINDUSTRIES",
+      "debit": 0.0,
+      "credit": 40000.0,
+      "balance": 241191.76
+    },
+    {
+      "date": "25/09/2025",
+      "description": "INF/NEFT/041722769/SBLOWNER/SKRISHNAST",
+      "debit": 2000000.0,
+      "credit": 0.0,
+      "balance": 261191.76
+    },
+    {
+      "date": "25/09/2025",
+      "description": "INF/NEFT/ICICN4202509250006748/09250060/RUKM/RUKMIN",
+      "debit": 37000.0,
+      "credit": 0.0,
+      "balance": 261561.76
+    },
+    {
+      "date": "25/09/2025",
+      "description": "INF/NEFT/041723498/SANDI/SANDIKAG",
+      "debit": 25000.0,
+      "credit": 0.0,
+      "balance": 286561.76
+    },
+    {
+      "date": "26/09/2025",
+      "description": "INF/NEFT/ICICN4202509260000305/09260027/SURYA/SURYAEMS",
+      "debit": 30000.0,
+      "credit": 0.0,
+      "balance": 286861.76
+    },
+    {
+      "date": "26/09/2025",
+      "description": "INF/NEFT/ICICN4202509260000962/ICICN0011347/MSPLGA",
+      "debit": 3767.0,
+      "credit": 0.0,
+      "balance": 286899.43
+    },
+    {
+      "date": "26/09/2025",
+      "description": "INF/NEFT/ICICN4202509260001083/ICICN0011347/MSPLGA",
+      "debit": 1000000.0,
+      "credit": 0.0,
+      "balance": 286999.43
+    },
+    {
+      "date": "26/09/2025",
+      "description": "INF/NEFT/041732317/RBO/RBOICICN",
+      "debit": 33600.0,
+      "credit": 0.0,
+      "balance": 287335.43
+    },
+    {
+      "date": "27/09/2025",
+      "description": "IBIL/ONL/001083705",
+      "debit": 32687.0,
+      "credit": 0.0,
+      "balance": 288102.43
+    },
+    {
+      "date": "27/09/2025",
+      "description": "RTGS/ICICN4202509270004548/ICICN0010434/PRAKRUTI/PRAKRUTICONSU",
+      "debit": 500000.0,
+      "credit": 0.0,
+      "balance": 293102.43
+    },
+    {
+      "date": "27/09/2025",
+      "description": "INF/NEFT/041725580/121/121AUTOMATIONS",
+      "debit": 18590.0,
+      "credit": 0.0,
+      "balance": 293298.3
+    },
+    {
+      "date": "27/09/2025",
+      "description": "INF/NEFT/ICICN4202509270007800/ICICN0000000/RUKM/RUKMINIGASES",
+      "debit": 2891.0,
+      "credit": 0.0,
+      "balance": 293317.11
+    },
+    {
+      "date": "27/09/2025",
+      "description": "INF/NEFT/ICICN4202509270537623/09270030/TESHWA/TESHWA",
+      "debit": 35000.0,
+      "credit": 0.0,
+      "balance": 293667.11
+    },
+    {
+      "date": "27/09/2025",
+      "description": "INF/NEFT/041736362/TESHWA/TESHWAS",
+      "debit": 50000.0,
+      "credit": 0.0,
+      "balance": 294167.11
+    },
+    {
+      "date": "29/09/2025",
+      "description": "INF/NEFT/041756203/SKRISHNA/SKRISHNAST",
+      "debit": 30000.0,
+      "credit": 0.0,
+      "balance": 294467.11
+    },
+    {
+      "date": "29/09/2025",
+      "description": "INF/NEFT/ICICN4202509290001859/ICICN0000783/SRIBANA/SRIBANA",
+      "debit": 184255.0,
+      "credit": 0.0,
+      "balance": 296312.11
+    },
+    {
+      "date": "29/09/2025",
+      "description": "INF/NEFT/ICICN4202509290002167/ICICN580000002/BALAJI",
+      "debit": 100000.0,
+      "credit": 0.0,
+      "balance": 396303.66
+    },
+    {
+      "date": "29/09/2025",
+      "description": "INF/NEFT/ICICN4202509290543667/YESBANK/MALTS/MALTSPVT",
+      "debit": 50000.0,
+      "credit": 0.0,
+      "balance": 446303.66
+    },
+    {
+      "date": "29/09/2025",
+      "description": "INF/NEFT/ICICN4202509290544578/ICICN0002124/SKB",
+      "debit": 4394.0,
+      "credit": 0.0,
+      "balance": 446303.66
+    },
+    {
+      "date": "30/09/2025",
+      "description": "INF/NEFT/041770987/MSPLGA/MSPLGA",
+      "debit": 50000.0,
+      "credit": 0.0,
+      "balance": 446553.66
+    },
+    {
+      "date": "30/09/2025",
+      "description": "IMT/IMPS/79493623/61594/HLDK/PRINT",
+      "debit": 73160.0,
+      "credit": 0.0,
+      "balance": 447585.66
+    },
+    {
+      "date": "01/10/2025",
+      "description": "RTGS/ICICN4202510010000854/ICICN0010434/PRAKRUTI/PRAKRUTICONSU",
+      "debit": 10000.0,
+      "credit": 0.0,
+      "balance": 457585.66
+    },
+    {
+      "date": "01/10/2025",
+      "description": "INF/NEFT/ICICN4202510010001602/ICICN0011347/MSPLGA",
+      "debit": 2511.0,
+      "credit": 0.0,
+      "balance": 457610.31
+    },
+    {
+      "date": "01/10/2025",
+      "description": "INF/NEFT/ICICN4202510010001689/ICICNFC0006186/JAINW",
+      "debit": 120714.0,
+      "credit": 0.0,
+      "balance": 458817.45
+    }
+  ]
+}
